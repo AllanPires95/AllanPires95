@@ -7,8 +7,10 @@ Oi, eu sou o Allan 😁
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white")](https://discord.com/channels/@Allan.apires#1691)
   <a href = "mailto:allanpires0459@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![AllanPiresGitHub stats](https://github-readme-stats.vercel.app/api?username=AllanPires95&theme=dark&show_icons=true)
-  [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanPires95&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/AllanPires95">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanPires95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanPires95&layout=compact&langs_count=16&theme=dark"/>
+    
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevMatheus)](https://github.com/anuraghazra/github-readme-stats)-->

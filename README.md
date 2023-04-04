@@ -18,7 +18,7 @@ Oi, eu sou o Allan 😁
 <div>
 
     
-#### Generation | Zé Delivery
+####
 ### 
       
 <div style="display: inline_block"><br/>
